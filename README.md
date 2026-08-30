@@ -3,7 +3,7 @@ Welcome to my IT Home Lab portfolio. This repository documents hands-on projects
 
 ---
 
-## 🔧 Technologies Used
+##  Technologies Used
 - Windows Server 2019 / 2022
 - Windows 10 Enterprise
 - Active Directory Domain Services (AD DS)
