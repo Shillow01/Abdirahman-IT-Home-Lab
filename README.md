@@ -1,89 +1,74 @@
-# Abdirahman-IT-Home-Lab Portfolio
-Welcome to my IT Home Lab portfolio. This repository documents hands-on projects in Windows Server, Active Directory, Networking, Group Policy, Imaging (MDT/WDS), and IT Support fundamentals. Each lab includes screenshots, explanations, and real configurations that demonstrate practical enterprise-level skills.
+# Abdirahman IT Home Lab Portfolio
+
+Welcome to my IT Home Lab portfolio. This repository documents hands-on projects in Windows Server, Active Directory, Networking, Group Policy, Imaging (MDT/WDS), PowerShell, and Windows 10 client management. Each lab folder contains documentation and will include screenshots as I complete each project.
 
 ---
 
-##  Technologies Used
-- Windows Server 2019 / 2022
-- Windows 10 Enterprise
-- Active Directory Domain Services (AD DS)
-- DNS, DHCP
-- Group Policy Management
-- WDS & MDT Imaging
-- VMware Workstation / VirtualBox
-- PowerShell
+## 🔧 Home Lab Projects
+
+Click any lab to view documentation:
+
+- [Active Directory](ActiveDirectory/README.md)
+- [DNS](DNS/README.md)
+- [DHCP](DHCP/README.md)
+- [Group Policy](GroupPolicy/README.md)
+- [Networking](Networking/README.md)
+- [MDT/WDS Imaging](MDT-WDS-Imaging/README.md)
+- [PowerShell](PowerShell/README.md)
+- [Windows 10 Client](Windows10-Client/README.md)
 
 ---
 
-##  Lab Sections
+##  About Me
 
-### **1. Active Directory**
-- Installing AD DS
-- Domain Controller promotion
-- Creating OUs, Users, Groups
-- Domain Join (Windows 10)
-- Password policies & account management
+My name is **Abdirahman Shillow**, an IT Support and Data Center Technician based in Columbus, OH. I have hands-on experience in Windows Server, Active Directory, Networking, and IT operations.
 
-### **2. DNS**
-- Forward lookup zones
-- Reverse lookup zones
-- A, CNAME, MX records
-- DNS troubleshooting
+### **Certifications**
+- CompTIA A+
+- Google IT Support Professional
+- Google AI Essentials
+- IBM SkillsBuild Badge
+- IBM Cloud Computing Certification
+- AWS Cloud Practitioner (CLF-C02)
+- OSHA 10
+- ServiceNow ITSM Fundamentals
+- Cisco Networking Academy badges
 
-### **3. DHCP**
-- Creating scopes
-- Reservations
-- DHCP options (003, 006, 015)
-- Lease management
+### **Currently Studying**
+- CompTIA Security+ (in progress)
+- AWS Cloud (continuing cloud learning)
 
-### **4. Group Policy**
-- User restrictions
-- Security policies
-- Drive mapping
-- Software deployment
-- Folder redirection
-
-### **5. Windows Imaging (MDT/WDS)**
-- Installing ADK + MDT
-- Creating task sequences
-- Capturing Windows images
-- Deploying Windows 10 over the network
-
-### **6. Networking**
-- IP addressing
-- Subnetting
-- Static routes
-- VLAN concepts
-- Network troubleshooting
-
-### **7. PowerShell**
-- User creation scripts
-- Bulk import CSV
-- AD automation
-- System information scripts
+### **Career Goals**
+I am targeting roles in:
+- IT Support  
+- Data Center Technician  
+- Junior System Administrator  
 
 ---
 
-##  Screenshots
-Each lab folder contains screenshots of:
-- Server Manager configurations  
-- AD DS setup  
-- DNS/DHCP settings  
-- GPO results  
-- MDT/WDS deployment  
-- Windows 10 domain join  
+##  Tools & Technologies
+
+- Windows Server 2019 / 2022  
+- Windows 10 Enterprise  
+- VMware Workstation / VirtualBox  
+- PowerShell  
+- MDT / WDS  
+- Active Directory  
+- DNS / DHCP  
+- Group Policy  
 
 ---
 
-##  Purpose of This Portfolio
-This repository demonstrates my practical experience in:
-- Enterprise Windows Server administration  
-- Identity & access management  
-- Network configuration  
-- IT support troubleshooting  
-- System deployment & automation  
+##  Screenshots Coming Soon
 
-It serves as a public showcase of my skills for recruiters, hiring managers, and peers in the IT industry.
+I am actively building out each lab and will upload screenshots as I complete them.
+
+---
+
+## 🔗 Connect With Me
+
+**LinkedIn:** www.linkedin.com/in/abdirahman-shillow-tech  
+**GitHub:** https://github.com/Shillow01
 
 ---
 
