@@ -69,9 +69,3 @@ I am actively building out each lab and will upload screenshots as I complete th
 
 **LinkedIn:** www.linkedin.com/in/abdirahman-shillow-tech  
 **GitHub:** https://github.com/Shillow01
-
----
-
-## 🔗 Connect With Me
-**LinkedIn:** www.linkedin.com/in/abdirahman-shillow-tech 
-**GitHub:** https://github.com/Shillow01
