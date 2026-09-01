@@ -23,17 +23,27 @@ This lab demonstrates the installation and configuration of Active Directory Dom
 7. Verified domain connectivity and login  
 
 ## Screenshots
-Add your screenshots here:
-- AD DS installation  
-- Domain promotion  
-- OU structure  
-- User creation  
-- Windows 10 domain join  
+
+### 1. Windows Server 2022 Installation
+
+### 2. DC01 Server Configuration
+
+### 3. Static IPv4 Configuration
+
+### 4. Active Directory Domain Services Installation
+
+### 5. Domain Controller Promotion
+
+### 6. DNS Configuration
+
+### 7. Organizational Units and Users
+
+### 8. Windows Client Domain Join
 
 ## Tools Used
-- Windows Server 2019 / 2022  
+- Windows Server 2022  
 - Windows 10 Enterprise  
-- VMware Workstation / VirtualBox  
+- VMware Workstation 
 
 ## Why This Lab Matters
 Active Directory is the core identity service used in almost every enterprise. This lab demonstrates my ability to deploy, configure, and manage domain services in a real environment.
