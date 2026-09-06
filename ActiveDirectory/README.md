@@ -43,7 +43,8 @@ Installed the Active Directory Domain Services (AD DS) role on DC01, along with 
 Promoted DC01 to the first domain controller in the new `Abdirahman.local` Active Directory forest. The server now provides centralized domain authentication and Active Directory services for the lab environment.
 <img width="1396" height="760" alt="Screenshot 2026-09-06 080100" src="https://github.com/user-attachments/assets/86e31f6e-7bff-4561-9103-b4e9212e8e60" />
 
-### 6. DNS Configuration
+### 6. DNS Configuration 
+Configured and verified DNS for the Abdirahman.local Active Directory domain. The DNS zone contains the required Active Directory records and a Host (A) record for DC01 pointing to 192.168.245.129.
 <img width="1381" height="765" alt="Screenshot 2026-09-06 080916" src="https://github.com/user-attachments/assets/4d02023b-411d-4c29-8bf8-bfd3afcece0b" />
 
 ### 7. Organizational Units and Users
