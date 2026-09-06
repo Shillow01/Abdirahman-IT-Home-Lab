@@ -41,6 +41,7 @@ Installed the Active Directory Domain Services (AD DS) role on DC01, along with 
 
 ### 5. Domain Controller Promotion 
 Promoted DC01 to the first domain controller in the new `Abdirahman.local` Active Directory forest. The server now provides centralized domain authentication and Active Directory services for the lab environment.
+<img width="1396" height="760" alt="Screenshot 2026-09-06 080100" src="https://github.com/user-attachments/assets/86e31f6e-7bff-4561-9103-b4e9212e8e60" />
 
 ### 6. DNS Configuration
 
