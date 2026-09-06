@@ -33,7 +33,9 @@ This lab demonstrates the installation and configuration of Active Directory Dom
 ### 3. Static IPv4 Configuration
 <img width="473" height="506" alt="Screenshot 2026-08-31 215130" src="https://github.com/user-attachments/assets/624e60ca-0b5e-4afe-8601-f9c64fc44979" />
 
-### 4. Active Directory Domain Services Installation
+### 4. Active Directory Domain Services 
+<img width="1206" height="772" alt="Screenshot 2026-09-06 073915" src="https://github.com/user-attachments/assets/307f4d7e-8fd5-4b69-9292-9c17c59532de" />
+
 
 ### 5. Domain Controller Promotion
 
