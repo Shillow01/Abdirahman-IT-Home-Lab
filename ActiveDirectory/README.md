@@ -48,6 +48,7 @@ Configured and verified DNS for the Abdirahman.local Active Directory domain. Th
 <img width="1381" height="765" alt="Screenshot 2026-09-06 080916" src="https://github.com/user-attachments/assets/4d02023b-411d-4c29-8bf8-bfd3afcece0b" />
 
 ### 7. Organizational Units and Users
+<img width="1315" height="772" alt="Screenshot 2026-09-06 084102" src="https://github.com/user-attachments/assets/887d1516-341c-425f-807b-7e72af02d751" />
 
 ### 8. Windows Client Domain Join
 
