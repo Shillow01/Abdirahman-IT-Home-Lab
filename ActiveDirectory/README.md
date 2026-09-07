@@ -54,6 +54,8 @@ Created an IT-Users security group to demonstrate group-based user and access ma
 <img width="1315" height="772" alt="Screenshot 2026-09-06 084102" src="https://github.com/user-attachments/assets/887d1516-341c-425f-807b-7e72af02d751" />
 
 ### 8. Windows Client Domain Join
+<img width="1340" height="781" alt="Screenshot 2026-09-07 114140" src="https://github.com/user-attachments/assets/b2dcbf80-8d74-4306-a53d-d9ef148eeb82" />
+<img width="1413" height="900" alt="Screenshot 2026-09-07 121442" src="https://github.com/user-attachments/assets/ff8940d0-1e68-4e7a-8a9e-e2e1961aafd7" />
 
 ## Tools Used
 - Windows Server 2022  
