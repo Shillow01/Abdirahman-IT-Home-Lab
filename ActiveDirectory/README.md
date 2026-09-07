@@ -53,7 +53,54 @@ Created an Active Directory user named Ahmed Ali in the IT OU and assigned the r
 Created an IT-Users security group to demonstrate group-based user and access management
 <img width="1315" height="772" alt="Screenshot 2026-09-06 084102" src="https://github.com/user-attachments/assets/887d1516-341c-425f-807b-7e72af02d751" />
 
-### 8. Windows Client Domain Join
+### 8. Windows Client Domain Join 
+Successfully joined the Windows client workstation **CLIENT01** to the **Abdirahman.local** Active Directory domain.
+
+### What I Did
+
+- Configured CLIENT01 to communicate with the Windows Server 2022 Domain Controller (DC01).
+
+- Joined CLIENT01 to the `Abdirahman.local` domain.
+
+- Restarted the client after completing the domain join.
+
+- Signed into CLIENT01 using the domain user account `ABDIRAHMAN\Aali`.
+
+- Verified CLIENT01 appeared as a computer object in Active Directory Users and Computers on DC01.
+
+- Verified the client configuration showed:
+
+  - Computer: `CLIENT01`
+
+  - Full Computer Name: `CLIENT01.Abdirahman.local`
+
+  - Domain: `Abdirahman.local`
+
+### Verification
+
+The screenshots below demonstrate successful domain integration from both sides:
+
+**Domain Controller Verification:**  
+
+CLIENT01 appears in **Active Directory Users and Computers → Computers** on DC01.
+
+**Client Verification:**  
+
+System Properties on CLIENT01 confirms that the workstation is joined to the `Abdirahman.local` domain.
+
+### Skills Demonstrated
+
+- Active Directory Domain Services (AD DS)
+
+- Windows Server 2022 Administration
+
+- Windows Client Domain Joining
+
+- DNS and Client/Server Networking
+
+- Domain User Authentication
+
+- Active Directory User and Computer Management
 <img width="1340" height="781" alt="Screenshot 2026-09-07 114140" src="https://github.com/user-attachments/assets/b2dcbf80-8d74-4306-a53d-d9ef148eeb82" />
 <img width="1413" height="900" alt="Screenshot 2026-09-07 121442" src="https://github.com/user-attachments/assets/ff8940d0-1e68-4e7a-8a9e-e2e1961aafd7" />
 
