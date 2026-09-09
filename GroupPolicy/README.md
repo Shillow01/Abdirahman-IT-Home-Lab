@@ -23,10 +23,10 @@ I will upload screenshots showing:
 - gpresult /r output
 
 ## Tools Used
-- Windows Server 2019 / 2022
+- Windows Server 2022
 - Group Policy Management Console (GPMC)
-- Windows 10 Enterprise
-- VMware Workstation / VirtualBox
+- Windows 11
+- VMware Workstation 
 
 ## Purpose
 Group Policy is one of the most powerful tools in Windows enterprise environments. This lab demonstrates my ability to centrally manage user and computer settings across a domain.
