@@ -14,7 +14,9 @@ This folder will contain my Group Policy (GPO) lab. I will document how I create
 - Troubleshooting GPO application issues (gpupdate, gpresult)
 
 Screenshots
-1 GPO creation and linking
+
+1. GPO creation and linking
+
 Configured and linked the IT User Policy to the IT Organizational Unit (OU).
 Configured the policy "Prohibit access to Control Panel and PC settings" to restrict domain users from accessing Control Panel and Windows Settings.
 <img width="1225" height="763" alt="Screenshot 2026-09-09 105333" src="https://github.com/user-attachments/assets/6e918052-6783-4f5e-8699-3125d4438978" />
