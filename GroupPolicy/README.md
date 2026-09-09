@@ -14,8 +14,9 @@ This folder will contain my Group Policy (GPO) lab. I will document how I create
 - Troubleshooting GPO application issues (gpupdate, gpresult)
 
 ## What I Will Add Later
-I will upload screenshots showing:
-- GPO creation and linking
+1 GPO creation and linking
+<img width="1225" height="763" alt="Screenshot 2026-09-09 105333" src="https://github.com/user-attachments/assets/6e918052-6783-4f5e-8699-3125d4438978" />
+
 - Password policy configuration
 - Network drive mapping
 - Desktop background deployment
