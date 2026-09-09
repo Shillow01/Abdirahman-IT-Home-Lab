@@ -23,6 +23,7 @@ Configured the policy "Prohibit access to Control Panel and PC settings" to rest
 <img width="1285" height="737" alt="Screenshot 2026-09-09 110125" src="https://github.com/user-attachments/assets/5ba0b7a9-77c3-4525-a9b9-94504a1e1b31" />
 
 2 Password policy configuration
+<img width="1175" height="790" alt="Screenshot 2026-09-09 111641" src="https://github.com/user-attachments/assets/1a879c83-b321-4386-9346-fa8dcddd6d0e" />
 
 - Network drive mapping
 - Desktop background deployment
